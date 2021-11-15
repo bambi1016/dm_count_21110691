@@ -11,6 +11,8 @@
 train -> val 로 진행하며, 최종 val을 통해 result 폴더의 submission.csv를 리더보드에 제출했습니다.
 test와 val에 사용하는 모델은 train을 통해 발생한 best_model.pth입니다. 
 
+## Model
+저장된 모델은 아래 사진과 같이 local에 적재되었습니다.
 
-![train_info](img/train_info.png)
+![train_info](img/train_model.png)
 
