@@ -1,6 +1,6 @@
 # dm_count
 
-2021년 2학기 컴퓨터비전의 텀프로젝트 군중 수 계산 코드 원복 저장소 입니다.
+2021년 2학기 컴퓨터비전의 텀프로젝트 Distribution Matching for Crowd Counting 코드 원복 저장소 입니다.
 
 
 ## Env
