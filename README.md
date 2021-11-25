@@ -17,3 +17,9 @@ test와 val에 사용하는 모델은 train을 통해 발생한 best_model.pth�
 
 ![train_info](img/train_model.png)
 
+
+## Leader board
+리더보드 제출 기록 사진 입니다.
+
+![train_info](img/리더보드 제출.png)
+
