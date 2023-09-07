@@ -2,8 +2,6 @@
 
 2021년 2학기 컴퓨터비전의 텀프로젝트 Distribution Matching for Crowd Counting 코드 원복 저장소 입니다.
 
-**설명 동영상 링크** (https://youtu.be/1gFdY6X1COM)
-
 
 ## Env
 
